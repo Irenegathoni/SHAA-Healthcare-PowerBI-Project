@@ -23,7 +23,7 @@ This project explores medical appointment no-shows using data from over 100,000 
 - Patients without medical conditions such as alcoholism, diabetes, or hypertension were more likely to no-show.
 
 ## Files in this Repository
-- `SHAA-Healthcare.pbix`: The main Power BI dashboard file
+- `[Healthcare Report.pbix]`: The main Power BI dashboard file
 - `KaggleV2-May-2016.csv`: Original dataset (open-source)
 
 
